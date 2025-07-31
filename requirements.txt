@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlite3
+bcrypt
+pyaml
+stripe
+numpy
