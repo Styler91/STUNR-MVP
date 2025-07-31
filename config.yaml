@@ -1,0 +1,22 @@
+cookie:
+  expiry_days: 30
+  key: random_secret_key_12345
+  name: stunr_cookie
+credentials:
+  usernames:
+    Bobby Orr:
+      email: bobby!!!!!@gkgkgk.com
+      name: Bobby
+      password: 123qwer
+    Gordie Howe:
+      email: grdowowo@fkfkkffk
+      name: Gordie
+      password: 123qwer
+    Wayne G:
+      email: djksjsksj@lskj;sajkdjs.com
+      name: Wayner
+      password: 123qwe
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$rXhvZRfjfbVhAyq4I13lN.vSTllrMtVe/1TMroTdSiYGV0B9O.0XW
